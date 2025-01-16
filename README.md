@@ -21,9 +21,11 @@ Calcule os descontos e o salário líquido com base nas tabelas abaixo:
 <li>de 3.641,04 até 7.087,22	14%</li>
 </ul>
 
-Salário	% Desconto Imposto de Renda
-até 1.903,98	0%
-de 1.903,99 até 2.826,65	7,5%
-de 2.826,66 até 3.751,05	15%
-de 3.751,06 até 4.664,68	22,50%
-Acima de 4.664,68	27,50%
+<h2>Salário	% Desconto Imposto de Renda</h2>
+<ul>
+<li>até 1.903,98	0%</li>
+<li>de 1.903,99 até 2.826,65	7,5%</li>
+<li>de 2.826,66 até 3.751,05	15%</li>
+<li>de 3.751,06 até 4.664,68	22,50%</li>
+<li>Acima de 4.664,68	27,50%</li>
+</ul>
